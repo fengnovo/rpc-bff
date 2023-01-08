@@ -24,7 +24,7 @@ https://www.wenjiangs.com/doc/dqoczbsk
 #### 前置准备，如果不在本机安装mysql这些，就使用docker
 1.安装docker
 2.docker安装redis镜像
-3.docker安装mysql镜像
+3.docker安装mysql镜像 sql表信息：bff/bff/bff_2023-01-09.sql  
 4.docker安装zookeeper镜像
 5.docker安装rabbitmq镜像
 
